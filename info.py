@@ -1,7 +1,7 @@
 API_ID       = 27932904 
 API_HASH     = "bd1969abffc09157194e1c8d24fb97df" 
 BOT_TOKEN    = "6559553176:AAHzzuDjBug664agRuZTdyVZ6z5THSx9Jm8" 
-SESSION      = "AQGqOOgAXgYCGWoaEes2cck5NJsI5lyO_GmsJG1nYL0qqoiGJTGaPi3K-3hDrnr1Fv_40qAaG01Ie8qPdE9wnOgU-BKC-Wri1_6iz2BH5Z0zCz6xbs4TfFzOW_eHKeHF9pMrqCRsbmaNbrgesAIbM4xp1r3dBaAcFwEoIaymyD2trlwN3KrIt5B2CkLRUlVGUfUiNv9PQvI6dcANX9ZMWTC8t-lFzsiG5k-MTBZbezbYGt7tOPUV-hjojnRg8iI6lVnP6p24ShG4wvaiNE7Zyb5bSW8cjso1-H_MwpSHhI-De3bHUsztonkZGfMpdCy0De3tqdKa33ab3_Ov2M7ZO9d3SVOEHwAAAAGJZuu8AA" 
+SESSION      = "AQGqOOgALh8xOlbBc3mEg2T4Ot-qzoHMjkofJyGneZ9BLZFIeh73HVxWds8YTZDiShU0fSuvqE7nAWkd79UmhVddQ21T73w0az_t79CP3T5Hh8eb4RcUWLs_X4QjudWwEgixrPZ4_6zsCLeou_-IfQ7A8kkfbSvfzsrV9n8KSWyWvsq9c75PVHoixuRiwVnRUKuDMSBxXYUupoHPy7pvb3M_MdNto0Gd6HS1RFwShfNodzXjbNVAyDZ9F-aug64PIE7pVnVtIaw_jmqnalTsiuTCgvgUVHEL7p59kh1JixeYmCYOu5fmowGWJL77Lf0zfyTfXmaS5JjgrYsvFcvN9nHxaxdvNgAAAAGJZuu8AA" 
 DATABASE_URI = "mongodb+srv://cheapd148:cheapd148@cluster0.bxejgg4.mongodb.net/?retryWrites=true&w=majority" 
 LOG_CHANNEL  = -1001837593769 
 ADMIN        = 6600190908 
