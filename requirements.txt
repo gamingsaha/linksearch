@@ -5,3 +5,4 @@ cinemagoer
 aiohttp
 aiofiles
 asyncio
+gunicorn==22.0.0
